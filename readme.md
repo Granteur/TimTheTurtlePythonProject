@@ -23,4 +23,9 @@ In its current state, running the program will cause the turtle (tim) to draw se
 *Enneadecagon           19	 	
 *Icosagon               20 
 
+
+moved my practice examples of various turtle methods and some comments to a separate file called "drafts.py" just to review
+
+modified main.py to cause 'tim' to draw circles reminiscent of the old spirograph toys
+
 [Turtle Project](main.py)
